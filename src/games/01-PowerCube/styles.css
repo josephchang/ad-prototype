@@ -1,0 +1,21 @@
+.powerCube {
+    
+}
+
+.powerCube_row {
+    display: flex;
+    flex-direction: row;
+}
+
+.cube {
+    border: 1px solid aqua;
+    cursor: pointer;
+    height: 100px;
+    width: 100px;
+}
+
+.cube-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
